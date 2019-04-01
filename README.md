@@ -191,3 +191,30 @@ PRs are welcome, especially with the following:
 - Notification Channels (Email, etc...) 
 
 Please open an issue before opening a PR.
+
+
+
+Mohammed Anis Ur Rahman 
+Position: GCP Platform Engineering Lead
+Date: 29/03/2019
+
+Category 
+Category 	comments	Ratings
+Previous platform engineer / Devops / infrastructure experience 	- 3 years of AWS experience with focus on AWS Route 53, Load balancer, regions, cloud formation, Terraform and Ansbile
+- No particular GCP experience
+- 1 year of Azure experience 
+	3
+Questions asked around AWS Infrastructure, architecture, networking and security and other similar previous work experience. 	- Some correct answers around AWS EC2 instances, regions and infrastructure. 
+- Lack of technical dept in questions around key management, IAM roles, security, networking	3
+Questions around Terraform (questions around TF State, TF Plan vs TF init, what are modules used for? TF providers and provisioners and differences) 	30% correct answers around basic Terraform and state. Rest of the answers lack technical depth and hands on experience	2
+Kubernetes ( what’s a kubernetes Pod vs Node). What is namespaces, what’s RBAC? Kubernetes Services. Scaling clusters? How does the pipeline work for kubernetes? 	40% correct answers only. Good experience around Jenkins, maven, ant. 
+Basic experience of Kubernetes and k8s eco system (Istio, networking, security).	2
+Questions around Docker exec, docker build, docker compose. Docker Swarm. Communication skills, ability to explain technical concepts in depth?	Basic understanding around Docker. 	2
+Cloud migration experience, end to end migration strategy, security and compliance related experience?	Mainly worked as Devops and wasn’t directly involved with migration or lift and shift style projects	1
+CI / CD pipelines, creating pipelines, managing environments, Jenkins, how do we extend Jenkins? 	Only basic knowledge (30% correct answers)	2
+Questions around Infrastructure Bootstrap. Platform AWS: IAM rules? Examples IAM roles and groups. Authentication and Authorisation with AD. Users and groups. 	Good knowledge around AWS infrastructure. Basic knowledge around IAM roles, users and groups and AD authentication or similar technologies	2
+Understanding of monitoring and alerting tools, previous experiences around ELK Stack, prometheus, nagios, filebeat etc?	Very basic understanding. Lacks practical experience.	1
+Ansible (and other configuration management systems), playbook, tasks and roles, what’s the difference?	Mostly incorrect answers. 	1
+
+
+
